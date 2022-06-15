@@ -1,0 +1,66 @@
+Skip to content
+Product 
+Team
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+Sign in
+Sign up
+Venkatasubramanian-Sundaramahadevan
+/
+Sentiment_Based_Product_Recommendation_Project
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Sentiment_Based_Product_Recommendation_Project/requirements.txt
+@Venkatasubramanian-Sundaramahadevan
+Venkatasubramanian-Sundaramahadevan Added gunicorn
+Latest commit dd50122 on Apr 5
+ History
+ 1 contributor
+22 lines (22 sloc)  746 Bytes
+
+
+﻿click==8.1.2
+colorama==0.4.4
+Flask==2.1.1
+gunicorn==20.1.0
+importlib-metadata==4.11.3
+itsdangerous==2.1.2
+Jinja2==3.1.1
+joblib==1.1.0
+MarkupSafe==2.1.1
+nltk==3.7
+numpy==1.22.3
+pandas==1.4.2
+python-dateutil==2.8.2
+pytz==2022.1
+regex==2022.3.15
+scikit-learn==1.0.2
+scipy==1.8.0
+six==1.16.0
+threadpoolctl==3.1.0
+tqdm==4.64.0
+Werkzeug==2.1.1
+zipp==3.8.0
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
